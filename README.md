@@ -24,6 +24,7 @@ npm run build
 ```
 
 ### Features:
+### adding new comments
 
 * ES6 Support via [babel](https://babeljs.io/) (v7)
 * SASS Support via [sass-loader](https://github.com/jtangelder/sass-loader)
